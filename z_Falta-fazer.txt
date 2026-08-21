@@ -1,0 +1,9 @@
+ rpt
+ 
+ menu
+ 
+ usar no git
+ 
+ gerar executavel
+ 
+ ROTINAS DE DEVOLUÇÕES do fatt_e.uvz
